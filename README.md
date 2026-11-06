@@ -1,4 +1,4 @@
-# sv
+# Proyecto para el grupo 32
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
